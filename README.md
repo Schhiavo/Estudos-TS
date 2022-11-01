@@ -7,7 +7,9 @@ Uma nova forma de estruturar uma função, possui uma flexibilidade que permite 
 Sua sintaxe tem 3 componentes: () => {}
 
 () = Recebe os parâmetros da função.
+
 => = é a seta que aponta pro corpo da função
+
 {} = o bloco onde o código da função será estruturado
 
 Função normal ----------
